@@ -1,5 +1,12 @@
 var view = {
   firstPost: {
+    title: "DIY - 100% Natural deodorant",
+    date: "October 14th 2018",
+    image: "./images/ss/870x400-Blog-Header-Images/natural_deodorant_2.png",
+    alt: "how to make deodorant, homemade deodorant, natural deodorant",
+    link: "./blog-posts/natural-deodorant-diy.html"
+  },
+  secondPost: {
     title:
       "12 Things to Remember When Visiting The United States as a Foreign Student",
     date: "August 6 2018",
@@ -10,21 +17,13 @@ var view = {
     link:
       "./blog-posts/12-things-to-remember-when-visiting-the-usa-as-a-foreign-student.html"
   },
-  secondPost: {
+  thirdPost: {
     title: "Sleeping Tips For A Long Flight In Economy",
     date: "July 4th 2018",
     image:
       "./images/ss/870x400-Blog-Header-Images/sleeping-tips-for-a-long-flight-economy-banner.jpg",
     alt: "Economy Class Airline Seats",
     link: "./blog-posts/sleeping-tips-for-a-long-flight-in-economy.html"
-  },
-  thirdPost: {
-    title: "Six Beauty Hacks That Will Change Your Life",
-    date: "July 3rd 2018",
-    image:
-      "./images/ss/870x400-Blog-Header-Images/6-beauty-hacks-that-will-change-your-life-banner.jpg",
-    alt: "black woman with red lipstick",
-    link: "./blog-posts/6-beauty-hacks-that-will-change-your-life.html"
   }
 };
 
